@@ -1,0 +1,25 @@
+========== HEADER ==========
+.nav__logo
+Architecture
+
+.nav__link
+Home - Projects - News - Store - Contact
+
+
+========== HOME ==========
+.home__subtitle
+Architecture
+
+.home__title
+Relaxing Steep <br> Lake House
+Luxury House <br> In The Forest
+Modern House <br> On The Rock
+Luxury <br> Curved House
+
+.home__button
+See Project
+
+.home__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
